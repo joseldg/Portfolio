@@ -1,4 +1,4 @@
-# 🌐 Portafolio Web - Juan Pérez
+# 🌐 Portafolio Web - José López
 
 Este proyecto es un portafolio web responsive desarrollado con tecnologías frontend modernas. Su objetivo es presentar información profesional, proyectos y experiencia de manera clara, visual y accesible.
 
